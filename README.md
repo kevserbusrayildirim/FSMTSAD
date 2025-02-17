@@ -65,11 +65,7 @@ During the augmentation process, duplicate entries were systematically removed t
 ## Citation Guide
 
 If you are using the FSMTSA dataset in your research, please cite as follows:
-
-**Pre-publication format:**
-```
-K. B. Zumberoglu, S. Z. Dik, B. S. Karadeniz, S. Sahmoud. "FSMTSA: A Comprehensive Turkish Sentiment Analysis Dataset." Fatih Sultan Mehmet University, preprint, 2025.
-```
+Zümberoğlu, K. B., Dik, S. Z., Karadeniz, B. S., & Sahmoud, S. (2025). Towards Better Sentiment Analysis in the Turkish Language: Dataset Improvements and Model Innovations. Applied Sciences, 15(4), 2062. https://doi.org/10.3390/app15042062
 
 ---
 
